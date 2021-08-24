@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate for projects
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn as much as I can.
 - 📫 How to reach me **pawarshriraj4@gmail.com** 
-- ⚡ Fun fact: I love watching anime!
 
 
 ### Connect with me:
@@ -43,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shrirajpawar4&show_icons=true&hide_border=true&theme=tokyonight" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirajpawar4&show_icons=true" alt="shrirajpawar4" /></p>
 </details>
 <table>
     <tr>
