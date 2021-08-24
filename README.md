@@ -1,6 +1,6 @@
 ![Banner](./images/banner.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=shrirajpawar04)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shrirajpawar04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=shrirajpawar04)
  
 
 - 🌱 I’m currently learning TypeScript, Gatsby, GraphQL and Python 
