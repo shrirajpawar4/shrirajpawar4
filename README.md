@@ -1,6 +1,7 @@
 ![Banner](./images/banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shrirajpawar04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=shrirajpawar04)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrirajpawar4&label=Profile%20views&color=0e75b6&style=flat" alt="shrirajpawar4" /> </p>
  
 
 - 🌱 I’m currently learning TypeScript, Gatsby, GraphQL and Python 
@@ -43,7 +44,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirajpawar4&show_icons=true" alt="shrirajpawar4" /></p>
-  ![Profile views](https://gpvc.arturio.dev/[shrirajpawar4])
 </details>
 <table>
     <tr>
