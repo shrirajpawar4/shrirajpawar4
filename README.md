@@ -43,6 +43,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirajpawar4&show_icons=true" alt="shrirajpawar4" /></p>
+  <p src="https://komarev.com/ghpvc/?username=shrirajpawar4"></p>
 </details>
 <table>
     <tr>
