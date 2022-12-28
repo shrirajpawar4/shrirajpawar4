@@ -5,7 +5,7 @@
  
  
 - 👯 I’m looking to collaborate for projects
-- 🥅 2022 Goals: Contribute more to Open Source projects and Learn as much as I can.
+- 🥅 2023 Goals: Dive deep into web3 protocols, get into technical writing and master my craft.
 - 📫 How to reach me **pawarshriraj4@gmail.com** 
 
 
