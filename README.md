@@ -1,10 +1,6 @@
-![Banner](./images/banner.png)
+### About Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/shrirajpawar04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=shrirajpawar04)
-<p> <img src="https://komarev.com/ghpvc/?username=shrirajpawar4&label=Profile%20views&color=0e75b6&style=flat" alt="shrirajpawar4" /> </p>
- 
- 
-- 👯 I’m looking to collaborate for projects
+- 👯 I’m currently builidng over Ethereum and contributing to web3 projects.
 - 🥅 2023 Goals: Dive deep into web3 protocols, get into technical writing and master my craft.
 - 📫 How to reach me **pawarshriraj4@gmail.com** 
 
@@ -16,34 +12,31 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### Languages and Tools:
+[![Twitter Follow](https://img.shields.io/twitter/follow/shrirajpawar04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=shrirajpawar04)
+<p> <img src="https://komarev.com/ghpvc/?username=shrirajpawar4&label=Profile%20views&color=0e75b6&style=flat" alt="shrirajpawar4" /> </p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h3 align="left">Languages and Tools:</h3>
+
+- React / Nextjs / Gatsby
+- Javascript/ Typescript
+- C / C++
+- Node / Express
+- PostgreSQL
+- Web3 (ethers)
+- Solidity
 
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
+  <summary>:zap: GitHub Stats</summary>
+<br />
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirajpawar4&show_icons=true" alt="shrirajpawar4" /></p>
-</details>
+
 <table>
     <tr>
         <td>D.A.M.P.</td>
