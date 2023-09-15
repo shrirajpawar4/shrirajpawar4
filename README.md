@@ -5,7 +5,7 @@
 - 📫 How to reach me **pawarshriraj4@gmail.com** 
 
 
-### Connect with me:
+### Visit Medium Blogs at - [Medium](https://medium.com/@shriiii) <br>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -26,12 +26,12 @@
 - PostgreSQL
 - Web3 (ethers)
 - Solidity
-
 <br />
 <br />
 
 ---
-
+### Checkout my blog:
+[medium]: https://medium.com/@shriiii
 
   <summary>:zap: GitHub Stats</summary>
 <br />
@@ -47,5 +47,3 @@
 [twitter]: https://twitter.com/shrirajpawar04
 [instagram]: https://instagram.com/shrirajpawar04
 [linkedin]: https://www.linkedin.com/in/shriraj-pawar-8ab66a1b0
-[Medium]: https://medium.com/@shriiii
-
