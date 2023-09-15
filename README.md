@@ -47,4 +47,5 @@
 [twitter]: https://twitter.com/shrirajpawar04
 [instagram]: https://instagram.com/shrirajpawar04
 [linkedin]: https://www.linkedin.com/in/shriraj-pawar-8ab66a1b0
+[Medium]: https://medium.com/@shriiii
 
