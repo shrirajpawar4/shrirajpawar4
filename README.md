@@ -1,7 +1,7 @@
 ### About Me
 
 - 👯 I’m currently builidng over Ethereum and contributing to web3 projects.
-- 🥅 2023 Goals: Dive deep into web3 protocols, get into technical writing and master my craft.
+- 🥅 2024 Goals: Dive deep into web3 protocols, get into technical writing and master my craft.
 - 📫 How to reach me **pawarshriraj4@gmail.com** 
 
 
