@@ -30,19 +30,6 @@
 <br />
 
 ---
-### Checkout my blog:
-[medium]: https://medium.com/@shriiii
-
-  <summary>:zap: GitHub Stats</summary>
-<br />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrirajpawar4&show_icons=true" alt="shrirajpawar4" /></p>
-
-<table>
-    <tr>
-        <td>D.A.M.P.</td>
-        <td><a href="https://devfolio.co/submissions/damp-dd4c" target="_blank"><img alt="DAMP Logo" src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c9ec4910652e474b87915718343b68e6/projects/c4fbcbd6c9844a19b55f5956b0719df4/3d4e29e2-1841-4636-bade-07058bf1fdc9.png"  style="width: 250px; height: 54px;" width="160" height="60" /></a></td>
-</table>
-
 
 [twitter]: https://twitter.com/shrirajpawar04
 [instagram]: https://instagram.com/shrirajpawar04
